@@ -11,6 +11,7 @@ https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation/assets/81505926/3a
 
 
 Download project:
+
 git clone https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation.git
 
 Download files in path:
@@ -20,10 +21,13 @@ Download files in path:
 [books.pkl](https://drive.google.com/file/d/1R03wYpa3NDLSjRkwSWvq9I4eRhX69aqh/view?usp=sharing) - Collaborative filtering/books.pkl
 
 Install requirements:
+
 pip install -r requirements.txt
 
 Run app:
+
 python3 Collaborative filtering/app.py
+
 python3 Content-Based Recommendation system/app.py
 
 
