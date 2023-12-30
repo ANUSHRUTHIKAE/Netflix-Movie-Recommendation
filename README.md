@@ -12,13 +12,16 @@ https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation/assets/81505926/3a
 
 
 Download project:
-git clone
+git clone https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation.git
 
 Download files in path:
 
 [similarity.pkl](https://drive.google.com/file/d/1HyriZW1lxhrmBE6a_lpl49Rswwds9Gwj/view?usp=sharing)  - Content-Based Recommendation system/similarity.pkl
+
 [books.pkl](https://drive.google.com/file/d/1R03wYpa3NDLSjRkwSWvq9I4eRhX69aqh/view?usp=sharing) - Collaborative filtering/books.pkl
 
 Install requirements:
 pip install -r requirements.txt
+
+
 
