@@ -1,9 +1,11 @@
 
 Collaborative Filtering Demo
+
 https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation/assets/81505926/d300bf17-68cb-43ca-87e4-f3c30b3752ea
 
 
 Content based Demo
+
 https://github.com/ANUSHRUTHIKAE/Netflix-Movie-Recommendation/assets/81505926/3acf9705-3b69-4e49-ba2d-d6afb3a43731
 
 
